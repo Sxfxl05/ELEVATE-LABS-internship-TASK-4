@@ -42,6 +42,5 @@ You can host this with GitHub Pages if needed.
 ---
 
 ## 👩‍💻 Author
-
-**Your Name**  
+SAFAL CHATURVEDI  
 _Web Development Intern – Elevate Labs_
